@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>2</folder>
 	<filename>2.jpg</filename>
-	<path>/Users/hankers/Downloads/test/tf/object_detection_demo/data/images/train/2.jpg</path>
+	<path>/Users/hankers/Downloads/test/tf/2/2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>pump truck</name>
+		<name>crane</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>93</xmin>
-			<ymin>13</ymin>
-			<xmax>603</xmax>
-			<ymax>341</ymax>
+			<xmin>369</xmin>
+			<ymin>58</ymin>
+			<xmax>484</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>100</ymin>
+			<xmax>777</xmax>
+			<ymax>141</ymax>
 		</bndbox>
 	</object>
 </annotation>
