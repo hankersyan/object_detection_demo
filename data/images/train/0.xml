@@ -1,7 +1,7 @@
 <annotation>
-	<folder>2</folder>
+	<folder>construction+label</folder>
 	<filename>0.jpg</filename>
-	<path>/Users/hankers/Downloads/test/tf/2/0.jpg</path>
+	<path>/Users/yan/Documents/work/ai/construction+label_test/construction+label/0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>136</ymin>
 			<xmax>708</xmax>
 			<ymax>397</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>319</ymin>
+			<xmax>456</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>299</ymin>
+			<xmax>142</xmax>
+			<ymax>351</ymax>
 		</bndbox>
 	</object>
 </annotation>
